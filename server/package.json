@@ -7,7 +7,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^2.4.0",
-    "sqlite3": "^5.0.3"
+    "sqlite3": "^5.1.5"
   },
   "scripts": {
     "start": "tsnd --transpile-only --ignore-watch node-modules --respawn src/server.ts",
